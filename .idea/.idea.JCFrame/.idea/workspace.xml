@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da442708-f5ad-48d1-a9a9-314e55c00d03" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Model/Mgrs/HotfixMgr/HotfixMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="39" />
+              <folding>
+                <marker date="1596977201616" expanded="true" signature="0:38" ph="/* 管理器模板 ... */" />
+                <marker date="1596977201616" expanded="true" signature="47:143" ph="..." />
+                <marker date="1596977201616" expanded="true" signature="161:2363" ph="{...}" />
+                <marker date="1596977201616" expanded="true" signature="215:2361" ph="{...}" />
+                <marker date="1596977201616" expanded="true" signature="665:722" ph="{...}" />
+                <marker date="1596977201616" expanded="true" signature="752:875" ph="{...}" />
+                <marker date="1596977201616" expanded="true" signature="906:1374" ph="{...}" />
+                <marker date="1596977201616" expanded="true" signature="1083:1153" ph="{...}" />
+                <marker date="1596977201616" expanded="true" signature="1249:1319" ph="{...}" />
+                <marker date="1596977201616" expanded="true" signature="1442:2354" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Model/ModuleMgr/Module/ModuleBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <marker date="1596977200792" expanded="true" signature="17:366" ph="{...}" />
+                <marker date="1596977200792" expanded="true" signature="24:72" ph="/// 所有模块的基类 ... " />
+                <marker date="1596977200792" expanded="true" signature="100:364" ph="{...}" />
+                <marker date="1596977200792" expanded="true" signature="141:161" ph="{...}" />
+                <marker date="1596977200792" expanded="true" signature="200:220" ph="{...}" />
+                <marker date="1596977200792" expanded="true" signature="258:278" ph="{...}" />
+                <marker date="1596977200792" expanded="true" signature="338:358" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Hotfix/ModuleMgr/HModuleMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="16" column="47" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="47" />
+              <folding>
+                <marker date="1596977200919" expanded="false" signature="6:66" ph="..." />
+                <marker date="1596977200919" expanded="true" signature="85:1560" ph="{...}" />
+                <marker date="1596977200919" expanded="true" signature="92:140" ph="/// 管理器的管理器 ... " />
+                <marker date="1596977200919" expanded="true" signature="168:1557" ph="{...}" />
+                <marker date="1596977200919" expanded="true" signature="290:456" ph="{...}" />
+                <marker date="1596977200919" expanded="true" signature="543:916" ph="{...}" />
+                <marker date="1596977200919" expanded="true" signature="973:1028" ph="{...}" />
+                <marker date="1596977200919" expanded="true" signature="1084:1551" ph="{...}" />
+                <marker date="1596977200919" expanded="true" signature="1186:1263" ph="{...}" />
+                <marker date="1596977200919" expanded="true" signature="1304:1407" ph="{...}" />
+                <marker date="1596977200919" expanded="true" signature="1424:1512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Hotfix/HGamePub.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="673">
+              <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+              <folding>
+                <marker date="1596978223248" expanded="true" signature="32:1816" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="39:86" ph="/// 热更层的入口 ... " />
+                <marker date="1596978223248" expanded="true" signature="112:1814" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="269:408" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="418:475" ph="/// 所有层模块初始化 ... " />
+                <marker date="1596978223248" expanded="true" signature="510:692" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="581:646" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="701:756" ph="/// 初始化周期函数  ... " />
+                <marker date="1596978223248" expanded="true" signature="806:928" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="989:1154" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="1060:1144" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="1212:1301" ph="/// 热更工程模块入口 ... " />
+                <marker date="1596978223248" expanded="true" signature="1346:1500" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="1390:1461" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="1538:1686" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="1609:1676" ph="{...}" />
+                <marker date="1596978223248" expanded="true" signature="1737:1808" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Model/Mgrs/HotfixMgr/IHotfixMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <folding>
+                <marker date="1596977360653" expanded="true" signature="0:40" ph="/* 管理器接口模板 ... */" />
+                <marker date="1596977360653" expanded="true" signature="48:89" ph="..." />
+                <marker date="1596977360653" expanded="true" signature="107:250" ph="{...}" />
+                <marker date="1596977360653" expanded="true" signature="151:247" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Model/GamePub/GamePub.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <marker date="1596977702196" expanded="true" signature="6:32" ph="..." />
+                <marker date="1596977702196" expanded="true" signature="50:2032" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="57:102" ph="/// 游戏入口 ... " />
+                <marker date="1596977702196" expanded="true" signature="153:2030" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="331:665" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="735:947" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="805:889" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="970:1188" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="1040:1107" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="1249:1335" ph="/// 主工程接口 ... " />
+                <marker date="1596977702196" expanded="true" signature="1380:1789" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="1424:1750" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="1589:1699" ph="{...}" />
+                <marker date="1596977702196" expanded="true" signature="1848:1918" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/ConfigMgr/IConfigMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding>
+                <marker date="1596977200406" expanded="true" signature="0:40" ph="/* 管理器接口模板 ... */" />
+                <marker date="1596977200406" expanded="true" signature="59:174" ph="{...}" />
+                <marker date="1596977200406" expanded="true" signature="103:171" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Model/ModuleMgr/ModuleMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <marker date="1596977200657" expanded="false" signature="6:66" ph="..." />
+                <marker date="1596977200657" expanded="true" signature="84:1510" ph="{...}" />
+                <marker date="1596977200657" expanded="true" signature="91:139" ph="/// 管理器的管理器 ... " />
+                <marker date="1596977200657" expanded="true" signature="166:1508" ph="{...}" />
+                <marker date="1596977200657" expanded="true" signature="297:417" ph="{...}" />
+                <marker date="1596977200657" expanded="true" signature="495:867" ph="{...}" />
+                <marker date="1596977200657" expanded="true" signature="924:979" ph="{...}" />
+                <marker date="1596977200657" expanded="true" signature="1035:1502" ph="{...}" />
+                <marker date="1596977200657" expanded="true" signature="1137:1214" ph="{...}" />
+                <marker date="1596977200657" expanded="true" signature="1255:1358" ph="{...}" />
+                <marker date="1596977200657" expanded="true" signature="1375:1463" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/IMapMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="38" />
+              <folding>
+                <marker date="1596978499513" expanded="true" signature="0:40" ph="/* 管理器接口模板 ... */" />
+                <marker date="1596978499513" expanded="true" signature="59:524" ph="{...}" />
+                <marker date="1596978499513" expanded="true" signature="100:521" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Module/IModule.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <marker date="1596908787561" expanded="true" signature="1:44" ph="/// 所有管理器接口的基类 ... " />
+                <marker date="1596908787561" expanded="true" signature="69:336" ph="{...}" />
+                <marker date="1596908787561" expanded="true" signature="76:125" ph="/// 生命周期:初始化 ... " />
+                <marker date="1596908787561" expanded="true" signature="147:195" ph="/// 生命周期:释放 ... " />
+                <marker date="1596908787561" expanded="true" signature="221:273" ph="/// 生命周期 Update ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ILRuntime</find>
+      <find>HGamePub</find>
+      <find>GetHInstance</find>
+      <find>Unity.HotFix</find>
+      <find>JCHotFix</find>
+      <find>mHotFixHGamePub</find>
+      <find>ETModel</find>
+      <find>update</find>
+      <find>GetModuleMgr</find>
+      <find>JCHotfix</find>
+      <find>CModel</find>
+      <find>JCModel</find>
+      <find>JC</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CHotfix</replace>
+      <replace>CModel</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/CLRBinding/BindingCodeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/ILBinding/CLRBindings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/ConfigMgr/IConfigMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/ConfigMgr/ConfigMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Mgrs/TestMgr/TestMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/MapMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/ModuleMgr/ModuleMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/ModuleMgr/Module/ModuleBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/IInstanceMethod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/ILStaticMethod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/GamePub/IGamePub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/GamePub/GamePub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/HGamePub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9E4643B7-00CC-46E6-B0FC-2EE5F6F7D11F/3a/c5fa5633/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9E4643B7-00CC-46E6-B0FC-2EE5F6F7D11F/18/01bc5943/FileUtil.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/CLR/Utils/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/ModuleMgr/HModuleMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Module/IModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/Chapter/BogoChapter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ILRuntimeEditor/ILRuntimeCLRBinding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/CLR/Method/CLRMethod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Tools/FilesUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/DllCopy/DllCopy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Mgrs/HotfixMgr/IHotfixMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Mgrs/HotfixMgr/HotfixMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DF7127BA-07DC-446D-9F58-31A0EC7B1D63/ad/35f34b46/Type.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/IMapMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/Level/BogoLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/ILHelper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Model/GameFrameWork/ILRuntTime/CLRBindings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/GameFrameWork/ILRuntTime/ILAdapterAttribute.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/GameFrameWork/ILRuntTime/ILBindingAttribute.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/GameFrameWork/ILRuntTime/ILHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/HotFix/FrameWork/Mgr/MapMgr/Chapter/BogoChapter.cs" />
+        <option value="$PROJECT_DIR$/Assets/HotFix/FrameWork/Mgr/MapMgr/Level/BogoLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/HotFix/FrameWork/Mgr/MapMgr/MapMgr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/ILRuntTime/ILBinding/CLRBindings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/Tools/FileUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/Tools/FilesUtil.cs" />
+        <option value="$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/ConfigMgr/IConfigMgr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/DllInit/BuildHotfixEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/ILRuntimeEditor/ILRuntimeCLRBinding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/ILRuntTime/ILHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/ModuleMgr/ModuleMgr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Hotfix/ModuleMgr/HModuleMgr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/Mgrs/HotfixMgr/HotfixMgr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/MapMgr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/GamePub/IGamePub.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/Mgrs/HotfixMgr/IHotfixMgr.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/GamePub/GamePub.cs" />
+        <option value="$PROJECT_DIR$/Assets/Hotfix/HGamePub.cs" />
+        <option value="$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/IMapMgr.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AssemblyExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="5427d58d:AssemblyExplorerRootNode" />
+              <item name="UnityEditor (msil, .Net Framework v3.5)" type="5e97225f:AssemblyExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="16644">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="16644" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da442708-f5ad-48d1-a9a9-314e55c00d03" name="Default Changelist" comment="" />
+      <created>1596964246724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596964246724</updated>
+      <workItem from="1596964250657" duration="6179000" />
+      <workItem from="1596970688835" duration="8778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14957000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" x="730" y="117" width="460" height="806" id="Project" order="0" sideWeight="0.48694518" visible="true" weight="0.11015119" />
+      <window_info id="Structure" order="1" sideWeight="0.51305485" side_tool="true" visible="true" weight="0.11015119" />
+      <window_info id="Favorites" order="2" sideWeight="0.50294465" side_tool="true" weight="0.2224622" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.6884449" weight="0.094228506" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4924406" weight="0.09988249" />
+      <window_info anchor="bottom" id="Unity" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="5" weight="0.094228506" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32979977" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5075594" side_tool="true" visible="true" weight="0.09882353" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946004" weight="0.08951708" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.1401649" />
+      <window_info anchor="bottom" id="NuGet" order="11" show_stripe_button="false" weight="0.32979977" />
+      <window_info anchor="bottom" id="Message" order="12" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Performance Profiler" order="15" />
+      <window_info active="true" anchor="bottom" id="Build" order="16" visible="true" weight="0.16018845" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32991362" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32991362" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" visible="true" weight="0.044276457" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Model/GameFrameWork/ILRuntTime/ILAdapterAttribute.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Model/GameFrameWork/ILRuntTime/ILHelper.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Model/GameFrameWork/ILRuntTime/ILBindingAttribute.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Model/GameFrameWork/ILRuntTime/CLRBindings.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/ILBinding/System_Single_Binding.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/CLR/Utils/Extensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <marker date="1580702715092" expanded="true" signature="6:248" ph="..." />
+            <marker date="1580702715092" expanded="true" signature="279:11574" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="415:11572" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="682:4449" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="727:4383" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="937:4339" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="1163:4286" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="1521:3583" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="1735:2057" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="2118:3557" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="2431:2561" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="2598:3485" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="2669:3357" ph="/* name = name.Replace(&quot;&lt;&quot; + gp.Name + &quot;&gt;&quot;, &quot;&lt;&quot; + ga.FullName + &quot;&gt;&quot;); ... */" />
+            <marker date="1580702715092" expanded="true" signature="3639:4045" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="3732:4019" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="3821:3989" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="4573:6126" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="4918:5228" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="5245:5567" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="5590:6024" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="5711:5978" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="6173:6364" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="6559:6643" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="6697:6782" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="6840:6929" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="6987:7076" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="7136:8009" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="7247:7971" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="7297:7386" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="7468:7556" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="7589:7674" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="7706:7790" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="7827:7916" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="8079:10599" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="8274:9224" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="8346:8423" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="9130:9210" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="9295:9404" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="9466:9733" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="9792:9884" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="9942:10017" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="10061:10565" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="10200:10281" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="10332:10551" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="10422:10489" ph="/* if (ins.IsValueType) ... */" />
+            <marker date="1580702715092" expanded="true" signature="10677:11071" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="10835:11036" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="11158:11566" ph="{...}" />
+            <marker date="1580702715092" expanded="true" signature="11316:11531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/Chapter/BogoChapter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1596977200451" expanded="true" signature="73:1275" ph="{...}" />
+            <marker date="1596977200451" expanded="true" signature="423:712" ph="{...}" />
+            <marker date="1596977200451" expanded="true" signature="741:791" ph="{...}" />
+            <marker date="1596977200451" expanded="true" signature="823:1149" ph="{...}" />
+            <marker date="1596977200451" expanded="true" signature="859:1038" ph="{...}" />
+            <marker date="1596977200451" expanded="true" signature="915:1024" ph="{...}" />
+            <marker date="1596977200451" expanded="true" signature="1055:1139" ph="{...}" />
+            <marker date="1596977200451" expanded="true" signature="1180:1251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/ILBinding/System_Array_Binding.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/CLRBinding/BindingCodeGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13915">
+          <caret line="627" column="92" selection-start-line="627" selection-start-column="92" selection-end-line="627" selection-end-column="92" />
+          <folding>
+            <marker date="1595298159436" expanded="false" signature="6:207" ph="..." />
+            <marker date="1595298159436" expanded="true" signature="247:39796" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="287:39794" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="635:6681" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="889:959" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="1054:6448" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="1555:6434" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="6728:7802" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="7174:7792" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="7208:7778" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="7443:7760" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="8033:16956" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="8529:8599" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="8988:15745" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="9138:9326" ph="/* CLR binding for delegate is important for cross domain invocation,so it should be generated ... */" />
+            <marker date="1595298159436" expanded="true" signature="10302:15731" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="12955:13292" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="15898:16723" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="16407:16578" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="17096:28818" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="17225:18245" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="17290:18231" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="17805:18213" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="17950:18191" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="18338:28808" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="18403:28794" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="19027:28776" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="19172:28754" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="19441:28728" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="19521:28698" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="19864:20900" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="20301:20554" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="21684:23335" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="21898:23289" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="22129:22420" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="22576:23059" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="22705:23005" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="23617:24840" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="23852:24794" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="24063:24744" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="24306:24613" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="25220:25833" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="25439:25714" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="26310:28575" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="26741:27616" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="27202:27471" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="27669:28529" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="28125:28394" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="28895:29291" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="29390:36143" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="29569:36103" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="30195:36089" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="30973:31952" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="31185:31638" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="31250:31357" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="31977:32710" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="32187:32640" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="32252:32359" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="33215:33506" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="33272:33367" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="33660:34568" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="33849:34302" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="33914:34021" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="34593:35252" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="34777:35230" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="34842:34949" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="35380:35671" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="35437:35532" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="36276:39787" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="36573:39777" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="36854:37415" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="36966:37359" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="37720:37995" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="37786:37977" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="38042:38833" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="38255:38815" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="39187:39597" ph="{...}" />
+            <marker date="1595298159436" expanded="true" signature="39261:39579" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/ConfigMgr/ConfigMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <marker date="1596977162979" expanded="true" signature="0:38" ph="/* 管理器模板 ... */" />
+            <marker date="1596977162979" expanded="true" signature="58:265" ph="{...}" />
+            <marker date="1596977162979" expanded="true" signature="112:262" ph="{...}" />
+            <marker date="1596977162979" expanded="true" signature="180:256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/Level/BogoLevel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <marker date="1596977200525" expanded="true" signature="34:1470" ph="{...}" />
+            <marker date="1596977200525" expanded="true" signature="71:1468" ph="{...}" />
+            <marker date="1596977200525" expanded="true" signature="551:1067" ph="{...}" />
+            <marker date="1596977200525" expanded="true" signature="1099:1355" ph="{...}" />
+            <marker date="1596977200525" expanded="true" signature="1156:1223" ph="{...}" />
+            <marker date="1596977200525" expanded="true" signature="1240:1323" ph="{...}" />
+            <marker date="1596977200525" expanded="true" signature="1385:1454" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/ILBinding/CLRBindings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding>
+            <marker date="1596977200484" expanded="false" signature="6:72" ph="..." />
+            <marker date="1596977200484" expanded="true" signature="111:1969" ph="{...}" />
+            <marker date="1596977200484" expanded="true" signature="135:1967" ph="{...}" />
+            <marker date="1596977200484" expanded="true" signature="152:282" ph="/// Initialize the CLR binding, please invoke this AFTER CLR Redirection registration ... " />
+            <marker date="1596977200484" expanded="true" signature="364:1724" ph="{...}" />
+            <marker date="1596977200484" expanded="true" signature="1734:1861" ph="/// Release the CLR binding, please invoke this BEFORE ILRuntime Appdomain destroy ... " />
+            <marker date="1596977200484" expanded="true" signature="1941:1961" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9E4643B7-00CC-46E6-B0FC-2EE5F6F7D11F/18/01bc5943/FileUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/Tools/FilesUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1596977201783" expanded="false" signature="6:95" ph="..." />
+            <marker date="1596977201783" expanded="true" signature="113:2073" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="142:2069" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="209:840" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="235:612" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="299:368" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="411:480" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="652:830" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="923:1622" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="949:1391" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="1014:1084" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="1185:1293" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="1431:1612" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="1698:2058" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="1756:1808" ph="{...}" />
+            <marker date="1596977201783" expanded="true" signature="1958:2048" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9E4643B7-00CC-46E6-B0FC-2EE5F6F7D11F/3a/c5fa5633/AssetDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="448" column="20" selection-start-line="448" selection-start-column="20" selection-end-line="448" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/ILRuntimeEditor/ILRuntimeCLRBinding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <marker date="1596977200375" expanded="true" signature="6:116" ph="..." />
+            <marker date="1596977200375" expanded="true" signature="157:1938" ph="{...}" />
+            <marker date="1596977200375" expanded="true" signature="256:1131" ph="{...}" />
+            <marker date="1596977200375" expanded="true" signature="1251:1936" ph="{...}" />
+            <marker date="1596977200375" expanded="true" signature="1669:1930" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/DllInit/BuildHotfixEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/ILHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <marker date="1596977200984" expanded="false" signature="6:215" ph="..." />
+            <marker date="1596977200984" expanded="true" signature="233:9776" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="268:9774" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="365:9768" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="4573:4766" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="4674:4750" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="4890:5104" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="4978:5088" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="5223:5324" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="5483:5586" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="5799:6054" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="5929:6034" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="6224:6477" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="6353:6457" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="6647:6859" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="6756:6843" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="6974:7103" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="7292:7542" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="7411:7522" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="9151:9682" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="9298:9364" ph="{...}" />
+            <marker date="1596977200984" expanded="true" signature="9537:9603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/ILStaticMethod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <marker date="1596977201108" expanded="true" signature="45:1079" ph="{...}" />
+            <marker date="1596977201108" expanded="true" signature="92:1077" ph="{...}" />
+            <marker date="1596977201108" expanded="true" signature="362:523" ph="{...}" />
+            <marker date="1596977201108" expanded="true" signature="553:618" ph="{...}" />
+            <marker date="1596977201108" expanded="true" signature="656:738" ph="{...}" />
+            <marker date="1596977201108" expanded="true" signature="786:890" ph="{...}" />
+            <marker date="1596977201108" expanded="true" signature="948:1074" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/ILRuntTime/IInstanceMethod.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <marker date="1596977200568" expanded="true" signature="16:237" ph="{...}" />
+            <marker date="1596977200568" expanded="true" signature="55:235" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DF7127BA-07DC-446D-9F58-31A0EC7B1D63/ad/35f34b46/Type.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="4304" column="23" selection-start-line="4304" selection-start-column="23" selection-end-line="4304" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/MapMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <marker date="1596977200892" expanded="true" signature="0:38" ph="/* 关卡管理器 ... */" />
+            <marker date="1596977200892" expanded="true" signature="46:106" ph="..." />
+            <marker date="1596977200892" expanded="true" signature="125:2960" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="173:2958" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="520:679" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="719:775" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="820:912" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="982:1031" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1071:1133" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1184:1229" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1274:1661" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1333:1580" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1397:1566" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1466:1548" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1699:1914" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1841:1904" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="1970:2238" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="2089:2158" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="2289:2477" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="2399:2467" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="2538:2588" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="2643:2695" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="2729:2780" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="2828:2884" ph="{...}" />
+            <marker date="1596977200892" expanded="true" signature="2932:2952" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/Mgrs/TestMgr/TestMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1596977201814" expanded="true" signature="0:38" ph="/* 管理器模板 ... */" />
+            <marker date="1596977201814" expanded="true" signature="57:125" ph="{...}" />
+            <marker date="1596977201814" expanded="true" signature="106:122" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/GamePub/IGamePub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <marker date="1596977201237" expanded="true" signature="50:232" ph="{...}" />
+            <marker date="1596977201237" expanded="true" signature="82:229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/GamePub/GamePub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <marker date="1596977702196" expanded="true" signature="6:32" ph="..." />
+            <marker date="1596977702196" expanded="true" signature="50:2032" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="57:102" ph="/// 游戏入口 ... " />
+            <marker date="1596977702196" expanded="true" signature="153:2030" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="331:665" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="735:947" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="805:889" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="970:1188" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="1040:1107" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="1249:1335" ph="/// 主工程接口 ... " />
+            <marker date="1596977702196" expanded="true" signature="1380:1789" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="1424:1750" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="1589:1699" ph="{...}" />
+            <marker date="1596977702196" expanded="true" signature="1848:1918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/HGamePub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="77" column="1" lean-forward="true" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding>
+            <marker date="1596978223248" expanded="true" signature="32:1816" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="39:86" ph="/// 热更层的入口 ... " />
+            <marker date="1596978223248" expanded="true" signature="112:1814" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="269:408" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="418:475" ph="/// 所有层模块初始化 ... " />
+            <marker date="1596978223248" expanded="true" signature="510:692" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="581:646" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="701:756" ph="/// 初始化周期函数  ... " />
+            <marker date="1596978223248" expanded="true" signature="806:928" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="989:1154" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="1060:1144" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="1212:1301" ph="/// 热更工程模块入口 ... " />
+            <marker date="1596978223248" expanded="true" signature="1346:1500" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="1390:1461" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="1538:1686" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="1609:1676" ph="{...}" />
+            <marker date="1596978223248" expanded="true" signature="1737:1808" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/ModuleMgr/HModuleMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <marker date="1596977200919" expanded="false" signature="6:66" ph="..." />
+            <marker date="1596977200919" expanded="true" signature="85:1560" ph="{...}" />
+            <marker date="1596977200919" expanded="true" signature="92:140" ph="/// 管理器的管理器 ... " />
+            <marker date="1596977200919" expanded="true" signature="168:1557" ph="{...}" />
+            <marker date="1596977200919" expanded="true" signature="290:456" ph="{...}" />
+            <marker date="1596977200919" expanded="true" signature="543:916" ph="{...}" />
+            <marker date="1596977200919" expanded="true" signature="973:1028" ph="{...}" />
+            <marker date="1596977200919" expanded="true" signature="1084:1551" ph="{...}" />
+            <marker date="1596977200919" expanded="true" signature="1186:1263" ph="{...}" />
+            <marker date="1596977200919" expanded="true" signature="1304:1407" ph="{...}" />
+            <marker date="1596977200919" expanded="true" signature="1424:1512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/ConfigMgr/IConfigMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <marker date="1596977200406" expanded="true" signature="0:40" ph="/* 管理器接口模板 ... */" />
+            <marker date="1596977200406" expanded="true" signature="59:174" ph="{...}" />
+            <marker date="1596977200406" expanded="true" signature="103:171" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Module/IModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <marker date="1596908787561" expanded="true" signature="1:44" ph="/// 所有管理器接口的基类 ... " />
+            <marker date="1596908787561" expanded="true" signature="69:336" ph="{...}" />
+            <marker date="1596908787561" expanded="true" signature="76:125" ph="/// 生命周期:初始化 ... " />
+            <marker date="1596908787561" expanded="true" signature="147:195" ph="/// 生命周期:释放 ... " />
+            <marker date="1596908787561" expanded="true" signature="221:273" ph="/// 生命周期 Update ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/ModuleMgr/ModuleMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <marker date="1596977200657" expanded="false" signature="6:66" ph="..." />
+            <marker date="1596977200657" expanded="true" signature="84:1510" ph="{...}" />
+            <marker date="1596977200657" expanded="true" signature="91:139" ph="/// 管理器的管理器 ... " />
+            <marker date="1596977200657" expanded="true" signature="166:1508" ph="{...}" />
+            <marker date="1596977200657" expanded="true" signature="297:417" ph="{...}" />
+            <marker date="1596977200657" expanded="true" signature="495:867" ph="{...}" />
+            <marker date="1596977200657" expanded="true" signature="924:979" ph="{...}" />
+            <marker date="1596977200657" expanded="true" signature="1035:1502" ph="{...}" />
+            <marker date="1596977200657" expanded="true" signature="1137:1214" ph="{...}" />
+            <marker date="1596977200657" expanded="true" signature="1255:1358" ph="{...}" />
+            <marker date="1596977200657" expanded="true" signature="1375:1463" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hotfix/FrameWork/Mgr/MapMgr/IMapMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <marker date="1596978499513" expanded="true" signature="0:40" ph="/* 管理器接口模板 ... */" />
+            <marker date="1596978499513" expanded="true" signature="59:524" ph="{...}" />
+            <marker date="1596978499513" expanded="true" signature="100:521" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/Mgrs/HotfixMgr/IHotfixMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <marker date="1596977360653" expanded="true" signature="0:40" ph="/* 管理器接口模板 ... */" />
+            <marker date="1596977360653" expanded="true" signature="48:89" ph="..." />
+            <marker date="1596977360653" expanded="true" signature="107:250" ph="{...}" />
+            <marker date="1596977360653" expanded="true" signature="151:247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/Mgrs/HotfixMgr/HotfixMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <marker date="1596977201616" expanded="true" signature="0:38" ph="/* 管理器模板 ... */" />
+            <marker date="1596977201616" expanded="true" signature="47:143" ph="..." />
+            <marker date="1596977201616" expanded="true" signature="161:2363" ph="{...}" />
+            <marker date="1596977201616" expanded="true" signature="215:2361" ph="{...}" />
+            <marker date="1596977201616" expanded="true" signature="665:722" ph="{...}" />
+            <marker date="1596977201616" expanded="true" signature="752:875" ph="{...}" />
+            <marker date="1596977201616" expanded="true" signature="906:1374" ph="{...}" />
+            <marker date="1596977201616" expanded="true" signature="1083:1153" ph="{...}" />
+            <marker date="1596977201616" expanded="true" signature="1249:1319" ph="{...}" />
+            <marker date="1596977201616" expanded="true" signature="1442:2354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Model/ModuleMgr/Module/ModuleBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1596977200792" expanded="true" signature="17:366" ph="{...}" />
+            <marker date="1596977200792" expanded="true" signature="24:72" ph="/// 所有模块的基类 ... " />
+            <marker date="1596977200792" expanded="true" signature="100:364" ph="{...}" />
+            <marker date="1596977200792" expanded="true" signature="141:161" ph="{...}" />
+            <marker date="1596977200792" expanded="true" signature="200:220" ph="{...}" />
+            <marker date="1596977200792" expanded="true" signature="258:278" ph="{...}" />
+            <marker date="1596977200792" expanded="true" signature="338:358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

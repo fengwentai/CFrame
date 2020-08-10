@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Frame.-1920104956.00" t="ExcludeRecursive" />
+    <e p="E:\FraneDemo\Frame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="HotFix" t="Include">
+          <e p="FrameWork" t="Include">
+            <e p="Mgr" t="Include">
+              <e p="ConfigMgr" t="Include">
+                <e p="ConfigMgr.cs" t="Include" />
+                <e p="IConfigMgr.cs" t="Include" />
+              </e>
+              <e p="MapMgr" t="Include">
+                <e p="Chapter" t="Include">
+                  <e p="BogoChapter.cs" t="Include" />
+                  <e p="IChapter.cs" t="Include" />
+                </e>
+                <e p="Config" t="Include">
+                  <e p="ChapterConfig.cs" t="Include" />
+                </e>
+                <e p="ILogic.cs" t="Include" />
+                <e p="IMapMgr.cs" t="Include" />
+                <e p="Level" t="Include">
+                  <e p="BogoLevel.cs" t="Include" />
+                  <e p="ILevel.cs" t="Include" />
+                </e>
+                <e p="MapMgr.cs" t="Include" />
+                <e p="Round" t="Include">
+                  <e p="IRound.cs" t="Include" />
+                </e>
+              </e>
+              <e p="TestMgr" t="Include">
+                <e p="ITestMgr.cs" t="Include" />
+                <e p="TestMgr.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Module" t="Include">
+              <e p="IModule.cs" t="Include" />
+              <e p="ModuleBase.cs" t="Include" />
+            </e>
+          </e>
+          <e p="HGamePub.cs" t="Include" />
+          <e p="ModuleMgr" t="Include">
+            <e p="HModuleMgr.cs" t="Include" />
+          </e>
+          <e p="Other" t="Include">
+            <e p="Enum.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Model" t="Include">
+          <e p="GamePub" t="Include">
+            <e p="GamePub.cs" t="Include" />
+            <e p="IGamePub.cs" t="Include" />
+          </e>
+          <e p="Mgr" t="Include">
+            <e p="TestMgr" t="Include">
+              <e p="ITestMgr.cs" t="Include" />
+              <e p="TestMgr.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ModuleMgr" t="Include">
+            <e p="Module" t="Include">
+              <e p="IModule.cs" t="Include" />
+              <e p="ModuleBase.cs" t="Include" />
+            </e>
+            <e p="ModuleMgr.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Frame.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
